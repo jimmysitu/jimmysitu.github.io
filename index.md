@@ -4,4 +4,7 @@
 
 layout: home
 ---
+![center](/images/qrcode_weixin.jpg)
+
+## [About Me](about.md)
 
