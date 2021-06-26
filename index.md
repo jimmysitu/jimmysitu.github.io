@@ -5,6 +5,3 @@
 layout: home
 ---
 
-Jimmy Situ's Website
-====
-
