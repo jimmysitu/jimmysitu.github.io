@@ -21,7 +21,7 @@ layout: page
 
 ## Projects
 
-### x86 Soc for Desktop and Ultra-book
+### x86 Soc for Desktop and Ultra-book [KX-7000](https://www.zhaoxin.com/prod_view.aspx?nid=3&typeid=593&id=2757)
 -   **Project Duration:** 2019.2 - Now
 -   **Project Description:** New x86 SoC with 15-90W TDP, for desktop and ultra-book
 -   **Responsibility:**
@@ -32,10 +32,9 @@ layout: page
     -   Co-work with GPU team, for total power budget sharing within TDP
 
 
+### 16nm x86 SoC for Ultra-book [KX-6000G](https://www.zhaoxin.com/prod_view.aspx?nid=3&typeid=581&id=2410)
 
-### 16nm x86 SoC for Ultra-book
-
--   **Project Duration:** 2018.2 - 2202.3
+-   **Project Duration:** 2018.2 - 2022.3
 -   **Project Description:** New x86 SoC with 15-35W TDP
 -   **Responsibility:**
     -   Define power management feature including C-state, P-state, Turbo Boost, RAPL, HWP etc.
@@ -43,7 +42,7 @@ layout: page
     -   Define PCU spec and implement with design team members (both hardwrare and firmware)
     -   Co-work with GPU team, for total power budget sharing within TDP
 
-### 16nm x86 SoC
+### 16nm x86 SoC [KX-6000](https://www.zhaoxin.com/prod_view.aspx?nid=3&typeid=129&id=327)
 
 -   **Project Duration:** 2017.2 - Now
 -   **Project Description:** A new generation 16nm x86 SoC
@@ -52,7 +51,7 @@ layout: page
     -   Regression website base on Jenkins
     -   Silicon debug support CV team
 
-### 28nm x86 SoC
+### 28nm x86 SoC [KX-5000](https://www.zhaoxin.com/qt.aspx?nid=3&typeid=92)
 
 -   **Project Duration:** 2015.10 - 2016.12
 -   **Project Description:** A new generation 28nm x86 SOC: KX-5000, mess production
@@ -61,7 +60,7 @@ layout: page
     -   Regression website base on Jenkins
     -   Silicon debug support CV team
 
-### 28nm x86 CPU
+### 28nm x86 CPU, [ZX-C](https://www.zhaoxin.com/qt.aspx?nid=3&typeid=90)
 
 -   **Project Duration:** 2013.1 - 2015.10
 -   **Project Description:** A new generation 28nm x86 CPU core,
