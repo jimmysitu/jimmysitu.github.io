@@ -21,14 +21,26 @@ layout: page
 
 ## Projects
 
-###  x86 SoC for Ultra-book
-
--   **Project Duration:** 2018.2 - Now
--   **Project Description:** New x86 SoC with 15W TDP
+### x86 Soc for Desktop and Ultra-book
+-   **Project Duration:** 2019.2 - Now
+-   **Project Description:** New x86 SoC with 15-90W TDP, for desktop and ultra-book
 -   **Responsibility:**
-    -   Define power feature including C-state, P-state, Turbo Boost, RAPL, HWP etc.
+    -   Define power management feature including C-state, P-state, Turbo Boost, Thermal Management, RAPL, HWP etc.
     -   Improve power model feature on c-model
-    -   Define PCU Spec and implement with design team members
+    -   Define and implement a new RISC-V MCU as main power control unit(PCU)
+    -   Define PCU behavior spec and implement with design team members (both hardware and firmware)
+    -   Co-work with GPU team, for total power budget sharing within TDP
+
+
+
+### 16nm x86 SoC for Ultra-book
+
+-   **Project Duration:** 2018.2 - 2202.3
+-   **Project Description:** New x86 SoC with 15-35W TDP
+-   **Responsibility:**
+    -   Define power management feature including C-state, P-state, Turbo Boost, RAPL, HWP etc.
+    -   Implement power model feature on c-model
+    -   Define PCU spec and implement with design team members (both hardwrare and firmware)
     -   Co-work with GPU team, for total power budget sharing within TDP
 
 ### 16nm x86 SoC
