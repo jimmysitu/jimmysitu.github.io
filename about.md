@@ -21,9 +21,19 @@ layout: page
 
 ## Projects
 
-### x86 Soc for Desktop and Ultra-book [KX-7000](https://www.zhaoxin.com/prod_view.aspx?nid=3&typeid=593&id=2757)
--   **Project Duration:** 2019.2 - Now
--   **Project Description:** New x86 SoC with 15-90W TDP, for desktop and ultra-book
+### x86 Chiplet for Server [KH-50000](https://www.zhaoxin.com/prod_view.aspx?nid=3&typeid=605&id=3601)
+-   **Project Duration:** 2022.2 - 2026.2
+-   **Project Description:** New x86 chiplet for server
+-   **Responsibility:**
+    -   Define power management feature including C-state, P-state, Turbo Boost, Thermal Management, RAPL, HWP etc.
+    -   Improve power model feature on c-model
+    -   Define and implement a new RISC-V MCU as main power control unit(PCU)
+    -   Define PCU behavior spec and implement with design team members (both hardware and firmware)
+
+
+### x86 chiplet for Desktop and Ultra-book [KX-7000](https://www.zhaoxin.com/prod_view.aspx?nid=3&typeid=593&id=2757)
+-   **Project Duration:** 2019.2 - 2023.2
+-   **Project Description:** New x86 chiplet with 15-90W TDP, for desktop and ultra-book
 -   **Responsibility:**
     -   Define power management feature including C-state, P-state, Turbo Boost, Thermal Management, RAPL, HWP etc.
     -   Improve power model feature on c-model
@@ -44,7 +54,7 @@ layout: page
 
 ### 16nm x86 SoC [KX-6000](https://www.zhaoxin.com/prod_view.aspx?nid=3&typeid=129&id=327)
 
--   **Project Duration:** 2017.2 - Now
+-   **Project Duration:** 2017.2 - 2019.5
 -   **Project Description:** A new generation 16nm x86 SoC
 -   **Responsibility:**
     -   Debug methodology for post-silicon debug
